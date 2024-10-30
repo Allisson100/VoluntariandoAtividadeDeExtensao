@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184565750636",
+    "project_id": "ong---voluntario",
+    "storage_bucket": "ong---voluntario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184565750636:android:4401a7ce4002c9b370f149",
+        "android_client_info": {
+          "package_name": "com.mycompany.voluntariando"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYAygbtKMhlb9A9ivF4x_AzzrlZ_fEwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
